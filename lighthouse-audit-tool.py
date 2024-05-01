@@ -1,3 +1,4 @@
+!pip install aiohttp
 import aiohttp
 import asyncio
 import pandas as pd
